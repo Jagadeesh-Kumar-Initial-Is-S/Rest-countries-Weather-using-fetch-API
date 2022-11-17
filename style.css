@@ -1,0 +1,50 @@
+/* Submitted or coded by Jagadeesh Kumar . S, 
+    you may contact me through my email address which is jagadeesh_2k17@proton.me,
+    kindly contribute some money to my Indian UPI address which is jagadeesh-kumar@ybl . */
+    
+    body{
+        /* background-image: -moz-linear-gradient(yellow, blue); */
+        background-color: rgba(25, 143, 80, 0.504);
+    }
+    
+.card {
+    /* width: 20w; */
+    text-align: center;
+}
+
+.card >button {
+    margin-bottom: 1rem;
+    width: 15vw;
+    margin-left: 3rem;
+}
+
+
+.card-body > img {
+    width: 100%;
+    margin-bottom: 1 rem;
+    height: 25vh;
+    object-fit: cover; 
+}
+
+.card-list {
+    /* background-color: rgba(25, 143, 80, 0.504); */
+    margin: 2rem 4rem 2rem 4rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card-body{
+    
+     background-color: rgba(209, 227, 217, 0.363);
+}
+
+.card-header {
+    background-color:black;
+    color:aliceblue;
+}
+
+/* Submitted or coded by Jagadeesh Kumar . S, 
+    you may contact me through my email address which is jagadeesh_2k17@proton.me,
+    kindly contribute some money to my Indian UPI address which is jagadeesh-kumar@ybl . */
